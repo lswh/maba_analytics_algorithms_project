@@ -6,6 +6,8 @@
 * Karenina Marie Comia aka Nina
 * Rhodora Ipac aka Rhoda
 
+Github Repository Link: https://github.com/lswh/maba_analytics_algorithms_project
+
 ## Proposed Topics for Algo 1 Capstone
 
 ### Policy and Decision Making: Understanding Voting Habits of the Filipino People with Clustering and Geospatial Indicators
